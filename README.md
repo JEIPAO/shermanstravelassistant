@@ -4,7 +4,7 @@ This is a full-stack AI-powered assistant that scrapes cruise destination pages 
 
 ### ✨ Live Demo
 
-> Deployed on Railway: `[https://your-project-name.up.railway.app](https://shermanstravelassistant-production.up.railway.app/)`
+> Deployed on Railway: [https://your-project-name.up.railway.app](https://shermanstravelassistant-production.up.railway.app/)
 
 ---
 
