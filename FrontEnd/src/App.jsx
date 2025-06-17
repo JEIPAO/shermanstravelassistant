@@ -18,7 +18,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await axios.post('http://localhost:3000/chat', { question });
+      const res = await axios.post('https://shermanstravelassistant-backend.up.railway.app/chat', { question });
       const aiMsg = { role: 'assistant', content: res.data.answer, sources: res.data.sources };
       setChats((prev) => [...prev, aiMsg]);
     } catch (err) {
